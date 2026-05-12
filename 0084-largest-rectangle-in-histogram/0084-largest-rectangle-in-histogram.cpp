@@ -40,7 +40,6 @@ public:
 
         int ans = INT_MIN;
         for(int i=0;i<n;i++){
-            // if(nearestSmallerRight[i]==-1) nearestSmallerRight[i] = n;
             ans = max(ans, heights[i]*(nearestSmallerRight[i]-nearestSmallerLeft[i]-1));
         }
 
