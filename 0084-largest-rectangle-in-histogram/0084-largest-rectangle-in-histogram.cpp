@@ -30,7 +30,7 @@ public:
     int largestRectangleArea(vector<int>& heights) {
         int n = heights.size();
 
-        vector<int>nearestSmallerRight(n,-1),nearestSmallerLeft(n,-1);
+        vector<int>nearestSmallerRight(n,n),nearestSmallerLeft(n,-1);
 
         stack<int>st1,st2;
 
@@ -40,7 +40,7 @@ public:
 
         int ans = INT_MIN;
         for(int i=0;i<n;i++){
-            if(nearestSmallerRight[i]==-1) nearestSmallerRight[i] = n;
+            // if(nearestSmallerRight[i]==-1) nearestSmallerRight[i] = n;
             ans = max(ans, heights[i]*(nearestSmallerRight[i]-nearestSmallerLeft[i]-1));
         }
 
