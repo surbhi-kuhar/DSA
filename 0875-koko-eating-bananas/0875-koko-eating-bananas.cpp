@@ -13,7 +13,7 @@ public:
             long hoursSpent = 0;
 
             for(auto x:piles){
-                hoursSpent += (x + mid - 1) / mid;
+                hoursSpent += (x + mid - 1) / mid;   // so that it computes division like math integer
             }
 
             if(hoursSpent <= h) hSpeed = mid - 1;
