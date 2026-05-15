@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/surbhi-kuhar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/surbhi-kuhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/surbhi-kuhar/DSA/tree/master/0239-sliding-window-maximum) |
+| [0704-binary-search](https://github.com/surbhi-kuhar/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/surbhi-kuhar/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/surbhi-kuhar/DSA/tree/master/0853-car-fleet) |
 ## Queue
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/surbhi-kuhar/DSA/tree/master/0853-car-fleet) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/surbhi-kuhar/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
