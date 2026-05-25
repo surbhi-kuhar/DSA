@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/surbhi-kuhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surbhi-kuhar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/surbhi-kuhar/DSA/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-kuhar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/surbhi-kuhar/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/surbhi-kuhar/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/surbhi-kuhar/DSA/tree/master/0853-car-fleet) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/surbhi-kuhar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/surbhi-kuhar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surbhi-kuhar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-kuhar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/surbhi-kuhar/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/surbhi-kuhar/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/surbhi-kuhar/DSA/tree/master/0981-time-based-key-value-store) |
@@ -110,4 +112,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/surbhi-kuhar/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/surbhi-kuhar/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/surbhi-kuhar/DSA/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-kuhar/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/surbhi-kuhar/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
