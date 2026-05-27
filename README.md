@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/surbhi-kuhar/DSA/tree/master/0239-sliding-window-maximum) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/surbhi-kuhar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/surbhi-kuhar/DSA/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/surbhi-kuhar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/surbhi-kuhar/DSA/tree/master/0981-time-based-key-value-store) |
 ## Math
 |  |
@@ -117,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/surbhi-kuhar/DSA/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/surbhi-kuhar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/surbhi-kuhar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/surbhi-kuhar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/surbhi-kuhar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
