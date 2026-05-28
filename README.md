@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/surbhi-kuhar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/surbhi-kuhar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surbhi-kuhar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhi-kuhar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/surbhi-kuhar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/surbhi-kuhar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/surbhi-kuhar/DSA/tree/master/0704-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhi-kuhar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/surbhi-kuhar/DSA/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/surbhi-kuhar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhi-kuhar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0853-car-fleet](https://github.com/surbhi-kuhar/DSA/tree/master/0853-car-fleet) |
 ## Binary Search
 |  |
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/surbhi-kuhar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhi-kuhar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surbhi-kuhar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
